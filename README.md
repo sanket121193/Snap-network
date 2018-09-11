@@ -1,0 +1,2 @@
+# Snap-network
+altcoin
